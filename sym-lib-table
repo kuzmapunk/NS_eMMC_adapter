@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EMMC32G-TX29-8AD11")(type "KiCad")(uri "${KIPRJMOD}/Lib/Symbols/EMMC32G-TX29-8AD11.kicad_sym")(options "")(descr ""))
+  (lib (name "EMMC32G-Switch-Simplified")(type "KiCad")(uri "${KIPRJMOD}/Lib/Symbols/EMMC32G-Switch-Simplified.kicad_sym")(options "")(descr ""))
+)
